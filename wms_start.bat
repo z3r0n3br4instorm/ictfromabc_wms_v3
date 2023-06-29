@@ -1,0 +1,1 @@
+start python wms_main.py
