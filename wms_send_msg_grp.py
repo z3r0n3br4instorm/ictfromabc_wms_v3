@@ -96,6 +96,7 @@ class Ui_MainWindow(object):
                 self.label_4.setText(results)
         #DEV
     def search_group_send(self):
+        #Yeah the code is not optimized but it works tho XD.
         message = self.textEdit_2.toPlainText()
         self.label_4.append("Selecting groups, please wait...")
         def smn(number,message):
